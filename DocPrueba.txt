@@ -1,1 +1,2 @@
 Ésta es una prueba de texto para git
+---Ésta es una edición del texto de prueba para git.
